@@ -1,4 +1,4 @@
-# sqlalchemy-python
+# SQLAlchemy-Python
 Python tool project 
 
 SQLAlchemy
