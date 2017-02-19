@@ -34,8 +34,11 @@ As mentioned before, <b>SQLAlchemy</b> has a flexible design, which makes it eas
 Therefore, compared to what other libraries have to offer, SQLAlchemy stands out because of its focus on the unit-of-work concept. This is prevalent when writing SQLAlchemy code. The DBSession concept is hard to initially understand and use; however, the complexity comes out helpful at the end because it reduces accidental database committing related bugs to almost zero. 
 
 Sources:
+
 http://pythoncentral.io/introductory-tutorial-python-sqlalchemy/
+
 https://en.wikipedia.org/wiki/SQLAlchemy
+
 http://pythoncentral.io/sqlalchemy-vs-orms/ 
 
 
