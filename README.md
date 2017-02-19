@@ -43,7 +43,7 @@ http://pythoncentral.io/sqlalchemy-vs-orms/
 
 <h2> Interesting Features of SQLAlchemy </h2>
 
-If interested in learning more about SQLAlchemy, please visit the [Key Features of SQLAlchemy](https://github.com/aiswrya92/sqlalchemy-python/blob/master/Interesting%20Features%20of%20SQL%20Alchemy.md). 
+If interested in learning more about SQLAlchemy, please visit the [Key Features of SQLAlchemy](https://github.com/aiswrya92/sqlalchemy-python/blob/master/Key%20Features%20of%20SQL%20Alchemy.md). 
 
 
 
