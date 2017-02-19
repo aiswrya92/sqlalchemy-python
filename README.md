@@ -15,6 +15,8 @@ SQLAlchemy is used by organizations such as:
 - FreshBooks
 - Fedora Project
 
+If interested in learning more about SQLAlchemy, please visit the [Key Features of SQLAlchemy](docs/Interesitng Features of SQLAlchemy.md). 
+
 <h2> Context: </h2>
 
 Various other libraries are similar to SQLAlchemy. Python has other ORM libraries which are alternatives to SQLAlchemy. Some of these include SQLObject, Storm, Django ORM, peewee and PonyORM. 
