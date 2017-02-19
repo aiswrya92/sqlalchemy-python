@@ -23,14 +23,16 @@ To learn about other libraries comparable to SQLAlchemy, please visit the [Conte
 
 To install SQLAlchemy, please follow the mentioned steps in our [Installation Guide](https://github.com/aiswrya92/sqlalchemy-python/blob/master/SQLAlchemy%20Installation%20Guide.ipynb).
 
+<h2> Minimal Example of SQLAlchemy Use </h2>
+
+For a minimal working example on how SQLAlchemy can be used, please go to our [Jupyter Notebook Example](https://github.com/aiswrya92/sqlalchemy-python/blob/master/SQLAlchemy.ipynb).
+
+<h2> Examples of Typical Use </h2>
+
+For more examples on the use of SQLAlchemy, go ahead and review our [Typical Use Cases](https://github.com/aiswrya92/sqlalchemy-python/blob/master/Use%20cases.ipynb)
+
 <h2> Interesting Features of SQLAlchemy </h2>
 
 If interested in learning more about SQLAlchemy, please visit the [Key Features of SQLAlchemy](https://github.com/aiswrya92/sqlalchemy-python/blob/master/Key%20Features%20of%20SQL%20Alchemy.md). 
-
-<h2> Examples of SQLAlchemy Use </h2>
-
-For an example on how SQLAlchemy can be used, please go to our [Jupyter Notebook Example](https://github.com/aiswrya92/sqlalchemy-python/blob/master/SQLAlchemy.ipynb).
-
-
 
 
