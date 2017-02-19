@@ -9,7 +9,7 @@ Some interesting features are things like eager-/lazy-loading, poly-morphic tabl
 
 - The Object Relational Mapper is then an optional package which builds upon the Core. Many applications are built strictly on the Core, using the SQL expression system to provide succinct and exact control over database interactions.
 
-- SqlAlchemy is high performing and accurate, well covered in tests, and deployed in thousands of environments. With virtually every major component in its second or third full iteration, SQLAlchemy 0.6 is roughly twice the speed of older 0.4 versions from just a few years ago, and versions 0.7 and 0.8 continue to improve.
+- SQLAlchemy is high performing and accurate, well covered in tests, and deployed in thousands of environments. With virtually every major component in its second or third full iteration, SQLAlchemy 0.6 is roughly twice the speed of older 0.4 versions from just a few years ago, and versions 0.7 and 0.8 continue to improve.
 
 - Built to conform to what DBAs demand, including the ability to swap out generated SQL with hand-optimized statements, full usage of bind parameters for all literal values, fully transactionalized and batched database writes using the Unit of Work pattern.
 
