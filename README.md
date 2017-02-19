@@ -21,7 +21,7 @@ To learn about other libraries comparable to SQLAlchemy, please visit the [Conte
 
 <h2> Installation Guide </h2>
 
-To install SQLAlchemy, please follow the mentioned steps in our [Installation Guide](https://github.com/aiswrya92/sqlalchemy-python/blob/master/SQLAlchemy%20Installation%20Guide.ipynb)
+To install SQLAlchemy, please follow the mentioned steps in our [Installation Guide](https://github.com/aiswrya92/sqlalchemy-python/blob/master/SQLAlchemy%20Installation%20Guide.ipynb).
 
 <h2> Interesting Features of SQLAlchemy </h2>
 
