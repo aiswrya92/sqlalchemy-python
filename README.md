@@ -29,7 +29,7 @@ For a minimal working example on how SQLAlchemy can be used, please go to our [J
 
 <h2> Examples of Typical Use </h2>
 
-For more examples on the use of SQLAlchemy, go ahead and review our [Typical Use Cases](https://github.com/aiswrya92/sqlalchemy-python/blob/master/Use%20cases.ipynb)
+For more examples on the use of SQLAlchemy, go ahead and review our [Typical Use Cases](https://github.com/aiswrya92/sqlalchemy-python/blob/master/Use%20cases.ipynb).
 
 <h2> Interesting Features of SQLAlchemy </h2>
 
