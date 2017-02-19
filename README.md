@@ -13,7 +13,7 @@ Yelp!, The OpenStack Project, Reddit, Mozilla, Survey Monkey, FreshBooks and Fed
 
 Various other libraries are similar to SQLAlchemy. Python has various other ORM libraries which are alternatives to SQLAlchemy. Some other libraries include SQLObject, Storm, Django ORM, peewee and PonyORM. 
 
-<b>SQLObject<b/> presents some advantages like how it has adopted the ActiveRecord pattern and it has a relatively small codebase. However, this library also follows Java’s ‘camelCase’ style to name objects and it does not support database sessions to isolate units of work.
+<b>SQLObject</b> presents some advantages like how it has adopted the ActiveRecord pattern and it has a relatively small codebase. However, this library also follows Java’s ‘camelCase’ style to name objects and it does not support database sessions to isolate units of work.
 
 On the other hand, the Storm library presents a clean and lightweight API, which leads to short learning curve and long-term maintainability. In addition, it does not require special class constructors or imperative base classes. However, it also has some disadvantages like forcing the programmer to write manual table-creation DDL statements instead of deriving them automatically from the model class. Besides, the library’s contributors have to give their contributions’ copyrights to Canonical Ltd. 
 
