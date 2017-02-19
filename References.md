@@ -20,6 +20,10 @@ http://pythoncentral.io/how-to-install-sqlalchemy/
 
 http://docs.sqlalchemy.org/en/latest/orm/tutorial.html
 
+http://pandas.pydata.org/pandas-docs/stable/generated/pandas.DataFrame.to_sql.html
+
+http://stackoverflow.com/
+
 <h4> Interesting Features of SQLAlchemy </h4>
 
 https://www.sqlalchemy.org/features.html
