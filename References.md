@@ -16,6 +16,10 @@ http://www.rmunn.com/sqlalchemy-tutorial/tutorial.html
 
 http://pythoncentral.io/how-to-install-sqlalchemy/
 
+<h4> Examples of Typical Use </h4>
+
+http://docs.sqlalchemy.org/en/latest/orm/tutorial.html
+
 <h4> Interesting Features of SQLAlchemy </h4>
 
 https://www.sqlalchemy.org/features.html
