@@ -1,7 +1,4 @@
 <style>
-body{
- text-align: justify;
-}
 </style>
 <html>
 <body>
