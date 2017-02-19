@@ -31,8 +31,14 @@ For a minimal working example on how SQLAlchemy can be used, please go to our [J
 
 For more examples on the use of SQLAlchemy, go ahead and review our [Typical Use Cases](https://github.com/aiswrya92/sqlalchemy-python/blob/master/Use%20cases.ipynb).
 
-<h2> Interesting Features of SQLAlchemy </h2>
+<h2> Key Features of SQLAlchemy </h2>
 
 If interested in learning more about SQLAlchemy, please visit the [Key Features of SQLAlchemy](https://github.com/aiswrya92/sqlalchemy-python/blob/master/Key%20Features%20of%20SQL%20Alchemy.md). 
 
+<h2> Summary and Personal Assessment </h2>
 
+
+
+<h2> References </h2>
+
+To review the sources used within our research, please visit our [References]() page. 
