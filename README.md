@@ -7,13 +7,13 @@ Building a strong database backend has become a very common task for programmers
 
 SQLAlchemy is used by organizations such as:
  
-*Yelp!
-*The OpenStack Project
-*Reddit
-*Mozilla
-*Survey Monkey
-*FreshBooks
-*Fedora Project
+-Yelp!
+-The OpenStack Project
+-Reddit
+-Mozilla
+-Survey Monkey
+-FreshBooks
+-Fedora Project
 
 <h2> Context: </h2>
 
