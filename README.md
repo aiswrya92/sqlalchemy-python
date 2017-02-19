@@ -17,7 +17,7 @@ SQLAlchemy is used by organizations such as:
 
 <h2> Context: </h2>
 
-Various other libraries are similar to SQLAlchemy. Python has various other ORM libraries which are alternatives to SQLAlchemy. Some other libraries include SQLObject, Storm, Django ORM, peewee and PonyORM. 
+Various other libraries are similar to SQLAlchemy. Python has other ORM libraries which are alternatives to SQLAlchemy. Some of these include SQLObject, Storm, Django ORM, peewee and PonyORM. 
 
 <b>SQLObject</b> presents some advantages like how it has adopted the ActiveRecord pattern and it has a relatively small codebase. However, this library also follows Java’s ‘camelCase’ style to name objects and it does not support database sessions to isolate units of work.
 
@@ -32,3 +32,14 @@ The library <b>peewee</b> is similar to Django, which makes it easy to use. It a
 As mentioned before, <b>SQLAlchemy</b> has a flexible design, which makes it easy to write complex queries. It also has enterprise-levels APIs, which makes the code adaptable and strong. However, this library has a heavyweight API, this leads to a long learning curve. In addition, the unit-of-work concept the library uses is not common. 
 
 Therefore, compared to what other libraries have to offer, SQLAlchemy stands out because of its focus on the unit-of-work concept. This is prevalent when writing SQLAlchemy code. The DBSession concept is hard to initially understand and use; however, the complexity comes out helpful at the end because it reduces accidental database committing related bugs to almost zero. 
+
+Sources:
+http://pythoncentral.io/introductory-tutorial-python-sqlalchemy/
+https://en.wikipedia.org/wiki/SQLAlchemy
+http://pythoncentral.io/sqlalchemy-vs-orms/ 
+
+
+
+
+
+
