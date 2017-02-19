@@ -22,3 +22,8 @@ Some interesting features are things like eager-/lazy-loading, poly-morphic tabl
 - In SQLAlchemy, primary and foreign keys are represented as sets of columns; truly composite behavior is implemented from the ground up. The ORM has industrial strength support for meaningful (non-surrogate) primary keys, including mutability and compatibility with ON UPDATE CASCADE, as well as explicit support for other common composite PK patterns such as "association" objects (many-to-many relationships with extra meaning attached to each association).
 
 - Explicit support is available for single-table, concrete-table, and joined table inheritance. Polymorphic loading (that is, a query that returns objects of multiple descendant types) is supported for all three styles. 
+
+
+<h4>Source:</h4>
+
+https://www.sqlalchemy.org/features.html
