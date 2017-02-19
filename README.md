@@ -41,4 +41,4 @@ If interested in learning more about SQLAlchemy, please visit the [Key Features 
 
 <h2> References </h2>
 
-To review the sources used within our research, please visit our [References]() page. 
+To review the sources used within our research, please visit our [References](https://github.com/aiswrya92/sqlalchemy-python/blob/master/References.md) page. 
