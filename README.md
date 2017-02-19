@@ -15,7 +15,7 @@ SQLAlchemy is used by organizations such as:
 - FreshBooks
 - Fedora Project
 
-If interested in learning more about SQLAlchemy, please visit the [Key Features of SQLAlchemy](docs/Interesitng Features of SQL Alchemy.md). 
+If interested in learning more about SQLAlchemy, please visit the [Key Features of SQLAlchemy](sqlalchemy-python/Interesting Features of SQL Alchemy.md). 
 
 <h2> Context: </h2>
 
