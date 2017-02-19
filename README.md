@@ -27,6 +27,10 @@ To install SQLAlchemy, please follow the mentioned steps in our [Installation Gu
 
 If interested in learning more about SQLAlchemy, please visit the [Key Features of SQLAlchemy](https://github.com/aiswrya92/sqlalchemy-python/blob/master/Key%20Features%20of%20SQL%20Alchemy.md). 
 
+<h2> Examples of SQLAlchemy Use </h2>
+
+For an example on how SQLAlchemy can be used, please go to our [Jupyter Notebook Example](https://github.com/aiswrya92/sqlalchemy-python/blob/master/SQLAlchemy.ipynb).
+
 
 
 
