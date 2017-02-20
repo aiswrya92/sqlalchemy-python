@@ -41,6 +41,7 @@ As mentioned in various sections above, SQLAlchemy proves to be a useful library
 
 We believe SQLAlchemy is a useful library when it comes to applications that are heavily  dependent on databases. This opinion relies heavily on the fact the library optimizes the database interactions by clubbing queries together instead of flushing the data to the DB every single time (meaning write operations are done only when there is read operation). Also, it is very easy to manipulate data in the object-oriented programming way. 
 
+In addition to that, SQLAlchemy is a very powerful and useful package for Data Analysts. This is because it allows users to define the database schema in Python code in the form classes which keeps related functionalities together and facilitates easy maintenance. The syntax allows you to mix SQL clauses and Python variables, and is secure against SQL injection attacks. This package allows seamless integration with web frameworks and can easily be customized based on user needs.
 
 <h3> References </h3>
 
