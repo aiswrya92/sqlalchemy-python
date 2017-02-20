@@ -37,7 +37,7 @@ If interested in learning more about SQLAlchemy, please visit the [Key Features 
 
 <h3> Summary and Personal Assessment </h3>
 
-As mentioned in various sections above, SQLAlchemy proves to be a useful library as it facilitates various tasks for programmers who work heavily with databases. The library has a flexible design, which makes it easy to write complex queries. It also has enterprise-levels APIs, which makes the code adaptable and strong. It also has some disadvantages like its steep learning curve; however, overall it seems to be an efficient and time saving library to use. 
+As mentioned in various sections above, SQLAlchemy proves to be a useful library as it facilitates various tasks for programmers who work heavily with databases. The library has a flexible design, which makes it easy to write complex queries. It also has enterprise-levels APIs, which makes the code adaptable and strong. It also has some disadvantages like its steep learning curve; however, overall it seems to be an efficient and time saving library to be familiar with.  
 
 We believe SQLAlchemy is a useful library when it comes to applications that are heavily  dependent on databases. This opinion relies heavily on the fact the library optimizes the database interactions by clubbing queries together instead of flushing the data to the DB every single time (meaning write operations are done only when there is read operation). Also, it is very easy to manipulate data in the object-oriented programming way. 
 
